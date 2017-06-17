@@ -1,0 +1,6 @@
+name: mruby-qrcode
+description: QRCode class
+author: Hiroki Mori
+website: https://github.com/yamori813/mruby-qrcode
+protocol: git
+repository: https://github.com/yamori813/mruby-qrcode.git
