@@ -13,13 +13,7 @@ end
 ```
 ## example
 ```ruby
-p QRCode.hi
-#=> "hi!!"
-t = QRCode.new "hello"
-p t.hello
-#=> "hello"
-p t.bye
-#=> "hello bye"
+p QRCode.encode(0, 1, [1,2,3,4])
 ```
 
 ## License
